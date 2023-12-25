@@ -3,10 +3,10 @@ package tree_complete
 import (
 	"encoding/json"
 	"github.com/emirpasic/gods/trees/avltree"
+	"github.com/eray-can/tree-complete/mock"
+	"github.com/eray-can/tree-complete/schema"
+	avltree2 "github.com/eray-can/tree-complete/trees/avltree"
 	"testing"
-	"tree-complete/mock"
-	"tree-complete/schema"
-	avltree2 "tree-complete/trees/avltree"
 	"unicode"
 )
 

@@ -4,11 +4,11 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/emirpasic/gods/trees/avltree"
+	treecomplete "github.com/eray-can/tree-complete"
+	"github.com/eray-can/tree-complete/mock"
+	"github.com/eray-can/tree-complete/schema"
+	myTree "github.com/eray-can/tree-complete/trees/avltree"
 	"net/http"
-	treecomplete "tree-complete"
-	"tree-complete/mock"
-	"tree-complete/schema"
-	myTree "tree-complete/trees/avltree"
 
 	"unicode"
 )

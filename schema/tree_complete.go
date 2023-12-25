@@ -1,7 +1,7 @@
 package schema
 
 import (
-	"tree-complete/trees/mytree"
+	"github.com/eray-can/tree-complete/trees/mytree"
 	"unicode"
 )
 

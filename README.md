@@ -21,7 +21,7 @@ Supported Trees
 ___
 
 ```shell
-go get ''
+go get github.com/eray-can/tree-complete
 ```
 [Example GetTreeCompleteResponse](./example/treecomplete/handler.go)
 

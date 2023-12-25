@@ -2,7 +2,7 @@ package avltree
 
 import (
 	"github.com/emirpasic/gods/trees/avltree"
-	"tree-complete/trees/mytree"
+	"github.com/eray-can/tree-complete/trees/mytree"
 )
 
 func ConvertAVLToMyTree(avlTree *avltree.Tree) *mytree.MyTree {

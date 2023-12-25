@@ -1,4 +1,5 @@
-module tree-complete
+module github.com/eray-can/tree-complete
+
 
 go 1.20
 

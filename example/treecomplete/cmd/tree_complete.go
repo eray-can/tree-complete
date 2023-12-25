@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/eray-can/tree-complete/example/treecomplete"
 	"net/http"
-	"tree-complete/example/treecomplete"
 )
 
 func main() {

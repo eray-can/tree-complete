@@ -1,10 +1,10 @@
 package tree_complete
 
 import (
+	"github.com/eray-can/tree-complete/schema"
+	"github.com/eray-can/tree-complete/trees/mytree"
+	"github.com/eray-can/tree-complete/utils"
 	"strings"
-	"tree-complete/schema"
-	"tree-complete/trees/mytree"
-	"tree-complete/utils"
 	"unicode"
 )
 
